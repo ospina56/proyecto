@@ -1,0 +1,28 @@
+.container{
+    background-color: rgb(255, 255, 255);
+}
+
+.container1{
+    background-color: rgb(201, 201, 195);
+}
+
+.container2{
+    background-color: rgb(255, 255, 255);
+}
+
+.container3{
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.col-3{
+    border-radius: 30px;
+}
+
+.container5{
+    background-color: rgb(230, 230, 229);
+    text-align: center;
+}
+
