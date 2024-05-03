@@ -17,12 +17,13 @@
     margin-top: 10px;
 }
 
-.col-3{
-    border-radius: 30px;
-}
-
 .container5{
-    background-color: rgb(230, 230, 229);
+    background-color: rgb(238, 237, 237);
     text-align: center;
 }
 
+.container-1{
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
